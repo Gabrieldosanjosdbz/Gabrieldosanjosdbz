@@ -99,7 +99,7 @@
   
 ## Where to find me
   
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/gabriel-dos-anjos-915553281/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-dos-anjos-915553281/)](https://www.linkedin.com/in/gabriel-dos-anjos-915553281/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:gabrieldosanjosdbz@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/gabriel_anjos010)
 [![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=flat-square&logo=github&logoColor=white)](https://github.com/Gabrieldosanjosdbz)
