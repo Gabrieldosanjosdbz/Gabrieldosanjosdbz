@@ -22,7 +22,7 @@
 ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=for-the-badge&logo=react)
 ![Next Js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-333333?style=for-the-badge&logo=Java&logoColor=007396)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
@@ -59,14 +59,49 @@
 
   
   <br/>
-  
-  <a href="https://github.com/iuricode" title="Perfil do Iuri">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dracula&show_icons=true" />
-  </a>
+<table>
+  <tr>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api?username=gabrieldosanjosdbz&theme=dark&hide_border=false&include_all_commits=true"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieldosanjosdbz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <br />
+      <img
+        align="left"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=gabrieldosanjosdbz&theme=dark&hide_border=false"
+        alt="Github Stats"
+      />
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <h3><b>📍 Profile Visitor Count</b></h3>
+</div>
+
+<p align="center">
+  <img
+    src="https://profile-counter.glitch.me/iuricode/count.svg"
+    alt="Número de visitantes no perfil"
+  />
+</p>
+
   
   ## Onde me encontrar
   
-  [![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
-  [![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
-  [![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](LINK-DO-SEU-GITHUB)
+  [![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/gabriel-dos-anjos-915553281/)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrieldosanjosdbz@gmail.com)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabriel_anjos010)
+  [![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/Gabrieldosanjosdbz)
 </div>
