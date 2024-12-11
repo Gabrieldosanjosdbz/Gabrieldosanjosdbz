@@ -14,7 +14,7 @@
   - 🌱 Continuously learning about Front-End and Back-End development.
 
   
-**Applications and Data**
+**applications and technologies**
 
 ![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-333333?style=for-the-badge&logo=react)
