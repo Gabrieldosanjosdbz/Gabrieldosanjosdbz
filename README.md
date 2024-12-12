@@ -91,7 +91,7 @@
 
 <p align="center">
   <img
-    src="https://profile-counter.glitch.me/iuricode/count.svg"
+    src="https://profile-counter.glitch.me/gabrieldosanjosdbz/count.svg"
     alt="Profile Visitor Count"
   />
 </p>
